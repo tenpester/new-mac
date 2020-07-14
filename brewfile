@@ -46,3 +46,6 @@ cask "homebrew/cask-versions/firefox-developer-edition"
 cask "burp-suite"
 cask "postman"
 cask "signal"
+cask "adoptopenjdk8"
+
+
