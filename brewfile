@@ -1,7 +1,11 @@
+tap homebrew/cask-fonts
+#brew cask install font-hack-nerd-font
+
 brew "youtube-dl"
-#brew "node"
+
+brew "node"
 brew "ffmpeg"
-#brew "docker"
+brew "docker"
 brew "rbenv"
 brew "wget"
 brew "gpg"
@@ -9,6 +13,7 @@ brew "git"
 brew "bash-completion"
 brew "openjdk"
 brew "make"
+brew "visual-studio-code"
 
 # cask apps
 cask "iterm2"
@@ -46,6 +51,8 @@ brew "awscli"
 brew "openssl"
 brew "sqlite"
 brew "masscan"
+brew "proxychains-ng"
+brew "tmux"
 cask "proxyman"
 cask "tor-browser"
 cask "homebrew/cask-versions/firefox-developer-edition"
