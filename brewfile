@@ -35,9 +35,10 @@ cask "qlmarkdown"
 cask "quicklook-json"
 
 #pentest tools
-brew "sidaf/homebrew-pentest/dirb"
-brew "sidaf/homebrew-pentest/dnsrecon"
-brew "sidaf/homebrew-pentest/gobuster"
+#brew "sidaf/homebrew-pentest/dirb"
+#brew "sidaf/homebrew-pentest/dnsrecon"
+#brew "sidaf/homebrew-pentest/gobuster"
+brew "gobuster"
 brew "nmap"
 brew "curl"
 brew "curl-openssl"
